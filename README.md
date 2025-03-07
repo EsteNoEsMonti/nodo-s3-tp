@@ -21,7 +21,7 @@ Construir una aplicación de carrito de compras utilizando **React, useContext, 
 
 ### 🛠 **Guía y Pistas**
 
-#### 📌 **Estructura Sugerida del Proyecto**
+#### 📌 **Estructura ~~de ejemplo~~ del Proyecto**
 ```plaintext
 /src
  ├── components
@@ -35,7 +35,7 @@ Construir una aplicación de carrito de compras utilizando **React, useContext, 
  ├── main.jsx              # Renderiza la aplicación
 ```
 
-#### 🛒 **Lista de Productos Sugeridos**
+#### 🛒 **~~Ejemplo de~~ Lista de Productos Sugeridos**
 ```js
 const products = [
   { id: 1, name: "Laptop", price: 1000 },
@@ -44,7 +44,7 @@ const products = [
 ];
 ```
 
-#### 🎨 **Ejemplo de Uso de `useContext` para el Carrito Mejorado**
+#### 🎨 **~~Ejemplo de~~ Uso de `useContext` para el Carrito**
 ```js
 import { createContext, useState, useEffect } from "react";
 

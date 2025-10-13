@@ -35,7 +35,7 @@ Construir una aplicación de carrito de compras utilizando **React, useContext, 
  ├── main.jsx              # Renderiza la aplicación
 ```
 
-#### 🛒 **~~Ejemplo de~~ Lista de Productos Sugeridos**
+#### 🛒 **~~Ejemplo de~~ Lista de Productos Sugeridos** (pongan mas productos y con imgs)
 ```js
 const products = [
   { id: 1, name: "Laptop", price: 1000 },
